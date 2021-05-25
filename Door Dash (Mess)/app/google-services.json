@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522492087070",
+    "project_id": "door-dash---mess",
+    "storage_bucket": "door-dash---mess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522492087070:android:9217e486e4a63e6376970f",
+        "android_client_info": {
+          "package_name": "com.example.doordash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522492087070-bfqokun9o1b18pu6o16b7796k2032nuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC1yjVAEMdeHQ5CPRAyQV8PYfIPkY99nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522492087070-bfqokun9o1b18pu6o16b7796k2032nuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
